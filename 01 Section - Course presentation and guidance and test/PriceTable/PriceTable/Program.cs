@@ -13,7 +13,7 @@ double itemValue = 0.0;
     2       X-Salad             $4.50
     3       X-Bacon             $5.00
     4       Simple Toast        $2.00
-    5       Refrigerator        $1.50
+    5       Soft Drink          $1.50
  */
 
 //

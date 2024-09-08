@@ -21,5 +21,5 @@
 </p>
 
 <p align="center">
-  <img src="./screenshots/example1.png" width="350" title="Console">
+  <img src="./screenshots/example2.png" width="350" title="Console">
 </p>
