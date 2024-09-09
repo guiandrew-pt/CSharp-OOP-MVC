@@ -2,7 +2,7 @@
 // Console.WriteLine("Hello, World!");
 
 //
-string str = "Type one integer number, split by comma: ";
+string str = "Type one integer number: ";
 
 //
 Console.Write(str);

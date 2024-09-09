@@ -15,7 +15,7 @@ if (num < 0)
 }
 else
 {
-    Console.WriteLine("POSITIVE");
+    Console.WriteLine("NOT NEGATIVE");
 }
 
 Console.ReadLine();

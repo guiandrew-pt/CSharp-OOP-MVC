@@ -2,7 +2,7 @@
 // Console.WriteLine("Hello, World!");
 
 // Variables:
-string str = "Type the inicial hour and the final hour, split by comma:";
+string str = "Type the inicial hour and the final hour, split by space:";
 
 //
 Console.WriteLine(str);

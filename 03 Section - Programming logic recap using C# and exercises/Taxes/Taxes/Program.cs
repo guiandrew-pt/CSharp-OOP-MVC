@@ -33,7 +33,7 @@ if (incomeTax == 0.0)
 }
 else
 {
-    Console.WriteLine("$" + incomeTax.ToString("F2"));
+    Console.WriteLine("RO$ " + incomeTax.ToString("F2"));
 }
 
 Console.ReadLine();

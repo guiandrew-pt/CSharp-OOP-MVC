@@ -2,7 +2,7 @@
 // Console.WriteLine("Hello, World!");
 
 // Variables:
-string str = "Type two decimal numbers, split by comma:";
+string str = "Type two decimal numbers, split by space:";
 
 //
 Console.WriteLine(str);

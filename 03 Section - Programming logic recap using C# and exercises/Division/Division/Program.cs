@@ -3,7 +3,7 @@
 
 //
 string str1 = "Type a integer number: ";
-string str2 = "Type two integer number, split by comma: ";
+string str2 = "Type two integer number, split by space: ";
 
 //
 Console.Write(str1);

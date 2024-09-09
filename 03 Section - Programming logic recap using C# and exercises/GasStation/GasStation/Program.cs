@@ -35,7 +35,7 @@ while (number != 4)
     number = Convert.ToInt16(Console.ReadLine());
 }
 
-Console.WriteLine("Thank you.");
+Console.WriteLine("THANK YOU VERY MUCH.");
 Console.WriteLine("Alcohol: " + alcohol);
 Console.WriteLine("Gasoline: " + gasoline);
 Console.WriteLine("Diesel: " + diesel);
