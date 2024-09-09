@@ -4,7 +4,7 @@
 // DIFFERENCE = (A * B - C * D)
 
 // Variables:
-string str = "Type four integer number, slit by comma:";
+string str = "Type four integer number, slit by space:";
 
 //
 Console.WriteLine(str);

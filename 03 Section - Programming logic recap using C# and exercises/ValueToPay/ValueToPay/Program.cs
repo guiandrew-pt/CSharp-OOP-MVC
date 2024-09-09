@@ -2,8 +2,8 @@
 // Console.WriteLine("Hello, World!");
 
 // Variables:
-string str1 = "Type the item 1 number, amount, value, split by comma:";
-string str2 = "Type the item 2 number, amount, value, split by comma:";
+string str1 = "Type the item 1 number, amount, value, split by space:";
+string str2 = "Type the item 2 number, amount, value, split by space:";
 
 //
 Console.WriteLine(str1);
