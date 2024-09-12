@@ -8,12 +8,12 @@ Triangle x = new Triangle();
 Triangle y = new Triangle();
 
 //
-Console.WriteLine("Type the measures of the triangle X:");
+Console.WriteLine("Type the measures of triangle X:");
 x.A = double.Parse(Console.ReadLine());
 x.B = double.Parse(Console.ReadLine());
 x.C = double.Parse(Console.ReadLine());
 
-Console.WriteLine("Type the measures of the triangle Y:");
+Console.WriteLine("Type the measures of triangle Y:");
 y.A = double.Parse(Console.ReadLine());
 y.B = double.Parse(Console.ReadLine());
 y.C = double.Parse(Console.ReadLine());
