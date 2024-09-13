@@ -34,3 +34,5 @@ double b = y ?? 5;
 
 Console.WriteLine(a);
 Console.WriteLine(b);
+
+Console.ReadLine();
