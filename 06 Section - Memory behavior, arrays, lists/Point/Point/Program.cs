@@ -13,3 +13,4 @@ p = new Pointer();
 
 Console.WriteLine(p);
 
+Console.ReadLine();
