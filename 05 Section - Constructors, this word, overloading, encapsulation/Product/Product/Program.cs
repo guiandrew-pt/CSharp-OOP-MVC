@@ -10,7 +10,7 @@ string str = "Type the data of the product:";
 //
 ProductI p = new ProductI("TV", 900.00, 10);
 
-Console.WriteLine(p.Name);
+// Console.WriteLine(p.Name);
 
 p.Name = "T";
 
