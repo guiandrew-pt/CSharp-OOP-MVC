@@ -13,7 +13,7 @@ int numberOfShapes = Convert.ToInt16(Console.ReadLine());
 
 for (int i = 1; i <= numberOfShapes; i++)
 {
-    Console.WriteLine($"Shape #{i}");
+    Console.WriteLine($"Shape #{i} data:");
     Console.Write("Rectangle or Circle (r/c)? ");
     char answer = char.Parse(Console.ReadLine());
 
