@@ -75,7 +75,7 @@ namespace ChessGame.Chess
 
         public override string ToString()
         {
-            return $"k";
+            return $"N";
         }
     }
 }
