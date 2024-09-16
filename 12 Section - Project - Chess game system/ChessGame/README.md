@@ -34,6 +34,14 @@
     • B for Bishop;
     • P for Pawn;
 
+### Chess system architecture
+
+    - Application layer;
+
+    - Chess game layer;
+
+    - Board layer;
+
 <p align="center">
   <img src="./screenshots/example1.png" width="350" title="Console">
 </p>
