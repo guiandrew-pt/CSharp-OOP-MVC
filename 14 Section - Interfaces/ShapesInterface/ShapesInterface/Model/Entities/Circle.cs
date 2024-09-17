@@ -11,7 +11,7 @@
 
         public override string ToString()
         {
-            return $"Cricle color = {Color}, radius = {Radius.ToString("F2")}, area = {Area().ToString("F2")}";
+            return $"Circle color = {Color}, radius = {Radius.ToString("F2")}, area = {Area().ToString("F2")}";
         }
     }
 }

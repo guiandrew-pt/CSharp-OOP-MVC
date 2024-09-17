@@ -30,11 +30,4 @@ catch (IOException ex)
     Console.WriteLine($"An error occurred: {ex.Message}");
 }
 
-
-
-
-
-
-
-
 Console.ReadLine();
